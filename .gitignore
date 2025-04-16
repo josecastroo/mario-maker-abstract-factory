@@ -1,0 +1,31 @@
+# Archivos de configuración de CLion
+.idea/
+
+# Archivos de configuración de CMake
+CMakeLists.txt.user
+CMakeLists.txt.cache
+CMakeLists.txt.sources
+
+# Archivos de compilación de CLion
+cmake-build-debug/
+cmake-build-release/
+
+# Archivos de configuración de la IDE (si los usas)
+*.iml
+
+# Archivos de compilación temporales
+*.o
+*.obj
+*.so
+*.exe
+*.out
+*.app
+*.dll
+
+# Archivos de log y temporales
+*.log
+*.tmp
+
+# Archivos del sistema operativo (Windows y Mac)
+Thumbs.db
+.DS_Store
